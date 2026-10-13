@@ -19,7 +19,7 @@ Ce projet implémente un système intelligent de gestion des informations et des
 ---
 
 ##  Table des matières
-1. [À Propos du Projet](#-à-propos-du-projet)
+1. [À Propos du Projet](#-À-propos-du-projet)
 2. [Fonctionnalités Clés](#-fonctionnalités-clés)
 3. [Technologies & Environnement](#-technologies--environnement)
 4. [Pour Commencer](#-pour-commencer)
