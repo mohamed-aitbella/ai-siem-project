@@ -1,0 +1,12 @@
+version: '3.8'
+
+services:
+  ai-siem:
+    build:
+      context: ..
+      dockerfile: Dockerfile
+    container_name: ai_siem_engine
+    volumes:
+      - ../models:/app/models
+    environment:
+      - PYTHONUNBUFFERED=1
