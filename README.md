@@ -19,13 +19,13 @@ Ce projet implémente un système intelligent de gestion des informations et des
 ---
 
 ##  Table des matières
-1. [À Propos du Projet](#-À-propos-du-projet)
-2. [Fonctionnalités Clés](#-fonctionnalités-clés)
-3. [Technologies & Environnement](#-technologies--environnement)
-4. [Pour Commencer](#-pour-commencer)
-5. [Résultats / Livrables (PDF)](#-résultats--livrables-pdf)
-6. [Captures d'Écran et Preuves](#-captures-décran-et-preuves)
-7. [Auteurs & Crédits](#-auteurs--crédits)
+1. [À Propos du Projet](#a-propos)
+2. [Fonctionnalités Clés](#fonctionnalites)
+3. [Technologies & Environnement](#technologies)
+4. [Pour Commencer](#pour-commencer)
+5. [Résultats / Livrables (PDF)](#resultats)
+6. [Captures d'Écran et Preuves](#captures)
+7. [Auteurs & Crédits](#auteurs)
 
 ---
 
